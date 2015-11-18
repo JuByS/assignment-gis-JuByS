@@ -20,8 +20,8 @@ Build a map-based application, which lets the user see geo-based data on a map a
 
 Fork this repository and fill in (either in English, or in Slovak):
 
-**Application description**: Aplikácia na mape zobrazí kiná, divadlá, knižnice, múzeá a galérie. Jednotlivé značky budú odlíšené farebne podľa toho, ktoré používateľ už navštívil alebo chce navštíviť (bude si to môcť značiť). Na bočnom paneli budú zoradené podľa vzdialenosti k aktuálnej polohe používateľa a budú sa dať filtrovať (napr. podľa typu alebo toho, či ich navštívil).
+**Application description**: Aplikácia na mape zobrazí kiná, divadlá, knižnice, kasína, galérie a iné objekty súvisiace s kultúrou alebo voľnočasovými aktivitami. Na bočnom paneli sa bude dať zvoliť, ktoré typy značiek chce používateľ na mape vidieť. Po kliknutí na ľubovoľnú zo zobrazených značiek sa podľa zvoleného filtrovania zobrazia ďalšie značky, ktoré sa nachádzajú v určitej vzdialenosti od nej.
 
-**Data source**: www.openstreetmap.org
+**Data source**: OpenStreetMap
 
-**Technologies used**: mapbox, postgresql
+**Technologies used**: MapBox, PostgreSQL, PHP, Leaflet, JavaScript
